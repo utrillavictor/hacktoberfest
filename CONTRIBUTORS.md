@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Victor C Utrilla] (https://github.com/utrillavictor)
+- Place: Charlotte, NC, USA
+- Bio: Software Developer
+- GitHub: [utrillavictor](https://github.com/utrillavictor)
